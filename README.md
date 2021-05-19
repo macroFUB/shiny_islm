@@ -4,7 +4,8 @@ Small shiny app for teaching.
 
 It depicts the effects of changes in different parameters on the equilibrium of the IS-LM model.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/makhro/shiny_asad/HEAD?urlpath=shiny/asad/)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/makhro/shiny_islm/HEAD?urlpath=shiny/islm/)
+
 
 Copyright (C) 2020 Erik Dasenbrock, Universität Rostock, Lehrstuhl für Angewandte Makroökonomie, Wirtschafts- und Sozialwissenschaftliche Fakultät der Universität Rostock.
 
