@@ -1,3 +1,6 @@
+ibrary(shiny)
+library(ggplot2)
+
 server <- function(input, output){
   dat <- reactive({
     r<-seq(0,(1/input$b_1)*(input$c_0-input$c_1*input$T+input$b_0+input$G),0.001)
@@ -59,4 +62,3 @@ server <- function(input, output){
     )[1, ]
   })
 }
-shinyApp(ui = ui, server = server)
